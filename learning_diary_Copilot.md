@@ -14,3 +14,6 @@ Task 3:
 - Copilot remembered the previous question and explained the differences between the list and the div.
 - The answer to the second question was well structured, because it was grouped into categories (identity, content, family, style, size).
 - Copilot used my own file (index.html) for the examples, so the answers were very specific to my project.
+
+Task 4 - Presentation
+

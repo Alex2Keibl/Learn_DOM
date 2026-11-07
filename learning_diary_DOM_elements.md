@@ -15,3 +15,5 @@ Task 3:
 - A div is a block element, so `offsetWidth` is the full page width.
 - Some properties can be read and changed (e.g. `id`, `textContent`, `style`), others can only be read (e.g. `tagName`, `offsetWidth`).
 - The size properties (`offsetWidth`, `offsetHeight` …) are calculated by the browser, so I can only read them.
+
+Task 4 - Presentation
