@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn DOM</title>
+</head>
+<body>
+    <div id="myDiv">This is a div.</div>
+
+    <ul id="myList">
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
+
+    <table id="myTable" border="1">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Anna</td>
+                <td>21</td>
+            </tr>
+            <tr>
+                <td>Ben</td>
+                <td>23</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <form id="myForm">
+        <label for="color">Color:</label>
+        <select id="color" name="color">
+            <option value="red">Red</option>
+            <option value="green">Green</option>
+            <option value="blue">Blue</option>
+        </select>
+        <br>
+
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name">
+        <br>
+
+        <input type="radio" id="sizeSmall" name="size" value="small">
+        <label for="sizeSmall">Small</label>
+        <input type="radio" id="sizeLarge" name="size" value="large">
+        <label for="sizeLarge">Large</label>
+        <br>
+
+        <input type="checkbox" id="agree" name="agree">
+        <label for="agree">I agree</label>
+        <br>
+
+        <button type="button" id="submitBtn">Submit</button>
+    </form>
+
+    <script src="script.js"></script>
+</body>
+</html>
