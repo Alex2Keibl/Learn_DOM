@@ -10,4 +10,7 @@ Task 2:
 - QuerySelectorAll() only takes a "snapshot" of the elements at that moment. If I add or remove items afterwards, I have to call it again to get the current list.
 
 Task 3:
-- 
+- Sometimes Copilot gives answers that are too complex for simple understanding.
+- Copilot remembered the previous question and explained the differences between the list and the div.
+- The answer to the second question was well structured, because it was grouped into categories (identity, content, family, style, size).
+- Copilot used my own file (index.html) for the examples, so the answers were very specific to my project.

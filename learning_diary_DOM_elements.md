@@ -11,4 +11,7 @@ console.log(myList) shows it in the browser console (F12), so you can check that
 - The script is at the end of <body>, so the list already exists when the script runs.
 
 Task 3:
-
+- The div has mostly the same properties as the list, because every HTML element has them (e.g. `id`, `tagName`, `textContent`, `style`).
+- A div is a block element, so `offsetWidth` is the full page width.
+- Some properties can be read and changed (e.g. `id`, `textContent`, `style`), others can only be read (e.g. `tagName`, `offsetWidth`).
+- The size properties (`offsetWidth`, `offsetHeight` …) are calculated by the browser, so I can only read them.
