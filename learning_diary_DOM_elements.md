@@ -9,3 +9,6 @@ Task 2:
 - You can get the items inside it with myList.querySelectorAll("li").
 console.log(myList) shows it in the browser console (F12), so you can check that it worked.
 - The script is at the end of <body>, so the list already exists when the script runs.
+
+Task 3:
+
