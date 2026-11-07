@@ -24,4 +24,8 @@ console.log(myList) shows it in the browser console (F12), so you can check that
 - I can reach a single item with `children[0]`, `children[1]` and so on.
 - `offsetHeight` changes when I add or remove items, because the browser recalculates the size of the list.
 
-## Task 5 - 
+## Task 5 - button
+- The button has special properties like `type`, `disabled`, `name` and `value`. Because `type` is `"button"`, clicking it does not send the form.
+- With `disabled = true` the button is greyed out and can't be clicked anymore.
+- The most important thing to do with a button is `addEventListener("click", ...)`, because it lets me run code when the button is clicked.
+
