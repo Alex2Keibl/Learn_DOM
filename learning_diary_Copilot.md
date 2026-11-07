@@ -17,3 +17,8 @@ Task 3:
 
 Task 4 - Presentation
 
+Task 5 - ul:
+-The answers for the list were very similar to the answers for the div, because most properties exist on every HTML element.
+- Copilot pointed out what is special about the list (e.g. `children`, `listStyleType`, the outdated `type` property).
+- Copilot used real values from my index.html (e.g. 3 children, 7 childNodes), which made it easier to understand.
+
